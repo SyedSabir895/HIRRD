@@ -1,2 +1,1 @@
-HIRRD
 Hirrd is a job portal connecting job seekers with top employers. Candidates can find jobs easily, while companies post listings to attract talent. It streamlines hiring, making the process faster and more efficient for everyone.
